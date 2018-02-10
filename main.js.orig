@@ -1,0 +1,6 @@
+var num=59;
+<<<<<<< HEAD
+var cadena="Hello Flatter Earth"
+=======
+var cadena="Hello Flat Earth"
+>>>>>>> f6a3041e21866b17b9bf61d13e5caae838c56918
